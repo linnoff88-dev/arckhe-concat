@@ -4,10 +4,10 @@ format = 2
 id = "concat.daydream"
 name = "Daydream"
 kind = "filter"
-category = "Cinematic"
+category = "CARCKHÉtic"
 order = 35
 intensity = "haze"
-description = "Soft cinema: blacks lifted, the light blooming warm, shadows a touch cool, skin kept. The look of a story told in a window seat."
+description = "Soft cARCKHÉ: blacks lifted, the light blooming warm, shadows a touch cool, skin kept. The look of a story told in a window seat."
 
 [[param]]
 key = "haze"

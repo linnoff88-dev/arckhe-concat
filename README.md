@@ -1,4 +1,4 @@
-﻿# Concat â€” editor de vÃ­deo livre (fork INEMA)
+# Concat â€” editor de vÃ­deo livre (fork ARCKHÉ)
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,7 +6,7 @@
 </div>
 
 
-[![Concat â€” editor de vÃ­deo livre](guia/assets/banner.jpg)](https://inematds.github.io/concat/guia/)
+[![Concat â€” editor de vÃ­deo livre](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
 
 **ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
 
@@ -20,16 +20,16 @@ Download oficial: **https://concatenate.pages.dev/** (o site entrega o instalado
 
 ## ðŸ“– Guia de uso
 
-Guia completo (landing + passo a passo): **https://inematds.github.io/concat/guia/**
+Guia completo (landing + passo a passo): **https://linnoff88-dev.github.io/
 
 ## Sobre este fork
 
 - Projeto original: [jub0t/Concat](https://github.com/jub0t/Concat), de Jareer, licenÃ§a **AGPL-3.0**. O nome e o logo Concat sÃ£o marca do autor ([TRADEMARK.md](TRADEMARK.md)): versÃ£o modificada distribuÃ­da precisa de outro nome.
-- Este fork do INEMA Ã© para estudo e traz o guia em PT/EN/ES. O cÃ³digo nÃ£o foi alterado.
+- Este fork do ARCKHÉ Ã© para estudo e traz o guia em PT/EN/ES. O cÃ³digo nÃ£o foi alterado.
 - O README original do autor estÃ¡ em [README.upstream.md](README.upstream.md).
 - Os workflows de build/release do autor e o `dependabot.yml` foram movidos para `.github/workflows-upstream/` para nÃ£o rodarem aqui; o Ãºnico workflow ativo publica o guia no GitHub Pages.
 
-Mais conteÃºdo aberto e gratuito em **[INEMA.CLUB](https://inema.club)**.
+Mais conteÃºdo aberto e gratuito em **[ARCKHÉ AI](https://ARCKHÉ AI)**.
 
 ---
 
