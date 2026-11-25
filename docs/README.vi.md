@@ -6,7 +6,7 @@
     </td>
     <td align="">
       <h1>Concat</h1>
-      <h3 style="margin-top: -10px;">Lựa chọn thay thế CapCut đa nền tảng, thực sự miễn phí và mã nguồn mở.</h3>
+      <h3 style="margin-top: -10px;">Lựa chọn thay thế CapCut đa nền tảng, thực sự miễn phí và mê nguồn mở.</h3>
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@
     <td align="center" width="50%">
       <a href="https://proxyon.io/?ref=concat"><img src="https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/proxyon_sponsor_logo.png" alt="Proxyon" width="80" /></a><br />
       <a href="https://proxyon.io/?ref=concat"><b>Proxyon</b></a><br />
-      <sub>Proxy trả theo mức dùng cho lập trình viên<br />Dùng mã <code>JUB0T</code> để giảm 20 %</sub>
+      <sub>Proxy trả theo mức dùng cho lập trình viên<br />Dùng mê <code>JUB0T</code> để giảm 20 %</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://concatenate.pages.dev/#sponsor"><b>Logo của bạn ở đây</b></a><br />
@@ -51,7 +51,7 @@
 
 ## Giới thiệu
 
-Concat là trình biên tập video miễn phí, mã nguồn mở và là lựa chọn thay thế CapCut cho macOS, Windows, Linux và Android. Nó làm được những việc mà người ta thực sự mở CapCut để làm: phụ đề tự động, chuyển văn bản thành giọng nói, xóa nền, hoạt ảnh keyframe, hiệu ứng và tiêu đề, cắt nhiều track, xuất 4K. Không có bất kỳ ràng buộc nào: không watermark, không tài khoản, không đăng ký, không tải lên.
+Concat là trình biên tập video miễn phí, mê nguồn mở và là lựa chọn thay thế CapCut cho macOS, Windows, Linux và Android. Nó làm được những việc mà người ta thực sự mở CapCut để làm: phụ đề tự động, chuyển văn bản thành giọng nói, xóa nền, hoạt ảnh keyframe, hiệu ứng và tiêu đề, cắt nhiều track, xuất 4K. Không có bất kỳ ràng buộc nào: không watermark, không tài khoản, không đăng ký, không tải lên.
 
 Mọi thứ chạy cục bộ trên engine Rust gốc với trình tổng hợp GPU. Cài đặt, kéo thả footage, cắt. Các mô hình AI cho phụ đề, giọng nói và tách nền tải một lần từ Cài đặt và sau đó hoạt động ngoại tuyến. Footage của bạn không bao giờ rời khỏi ổ đĩa của bạn.
 
@@ -61,7 +61,7 @@ Mọi thứ chạy cục bộ trên engine Rust gốc với trình tổng hợp 
 
 ## Điểm nổi bật
 
-- 🚫 **Không watermark. Không tài khoản. Không tường phí.** Mãi mãi.
+- 🚫 **Không watermark. Không tài khoản. Không tường phí.** Mêi mêi.
 - 🔒 **100 % cục bộ.** Không tải lên gì cả. Hoạt động ngoại tuyến.
 - 💬 **Phụ đề tự động.** Whisper cục bộ. Chọn kích thước mô hình, nhận phụ đề có kiểu dáng trên timeline.
 - 🗣️ **Chuyển văn bản thành giọng nói + nhân bản giọng.** Giọng cục bộ miễn phí, hoặc bất kỳ giọng nào từ vài giây ghi âm.
@@ -73,7 +73,7 @@ Mọi thứ chạy cục bộ trên engine Rust gốc với trình tổng hợp 
 - 📝 **Tiêu đề.** Phông chữ, viền, bóng đổ, nền. Preset để bắt đầu.
 - 🎙️ **Làm sạch giọng nói bằng một công tắc.** Khử ồn, tăng cường giọng, cân bằng âm lượng. Thêm giọng sóc, robot, điện thoại và các bạn.
 - 📤 **Xuất.** H.264, HEVC, AV1. Lên đến 4K 60, màu 10-bit.
-- 🦀 **Engine Rust gốc.** Trình tổng hợp GPU, proxy, giải mã phần cứng. Tua 4K mượt mà.
+- 🦀 **Engine Rust gốc.** Trình tổng hợp GPU, proxy, giải mê phần cứng. Tua 4K mượt mà.
 - 🤖 **Có thể lập trình.** API JSON-RPC, gRPC và MCP, cùng CLI. Các tác nhân AI có thể cắt video bằng nó.
 - 🖥️ **macOS, Windows, Linux, Android.** 25 ngôn ngữ. Cùng một ứng dụng, cùng tệp dự án.
 
@@ -84,7 +84,7 @@ Hai cách:
 1. **[Trang web](https://concatenate.pages.dev/#download)** đưa bạn đúng bản dựng cho máy của bạn. Bắt đầu từ đây.
 2. **[GitHub Releases](https://github.com/jub0t/Concat/releases)** có mọi bản dựng cho mọi nền tảng, kèm trình cài đặt, gói và checksum. Khi bạn muốn tự chọn.
 
-Concat đang ở giai đoạn **beta**: nó hoạt động, và vẫn còn vài góc cạnh. [Hãy cho biết](https://github.com/jub0t/Concat/issues) khi bạn gặp một lỗi.
+Concat đang ở giai đoạn **beta**: nó hoạt động, và vẫn còn vài góc cạnh. [Hêy cho biết](https://github.com/jub0t/Concat/issues) khi bạn gặp một lỗi.
 
 **Nền tảng**
 
@@ -105,7 +105,7 @@ Concat đang ở giai đoạn **beta**: nó hoạt động, và vẫn còn vài 
 > [!IMPORTANT]
 > Cách đóng góp tốt nhất là lấy một bản dựng từ trang [Releases](https://github.com/jub0t/Concat/releases) và dùng nó: tìm chỗ nó hỏng, và nói chỗ nó có thể tốt hơn.
 >
-> Sẵn sàng viết mã? [CONTRIBUTING.md](../CONTRIBUTING.md) mô tả cách thiết lập, bố cục cây mã nguồn, các kiểm tra cần chạy và cách cấp phép cho đóng góp. Điều khiển Concat từ script, dịch vụ hay tác nhân? [Tài liệu dành cho nhà phát triển](https://concatenate.pages.dev/docs) mô tả API của Concat và các phương thức truyền tải: JSON-RPC, gRPC và MCP. [Thảo luận này](https://github.com/jub0t/Concat/discussions/3) là nơi dự án được công bố.
+> Sẵn sàng viết mê? [CONTRIBUTING.md](../CONTRIBUTING.md) mô tả cách thiết lập, bố cục cây mê nguồn, các kiểm tra cần chạy và cách cấp phép cho đóng góp. Điều khiển Concat từ script, dịch vụ hay tác nhân? [Tài liệu dành cho nhà phát triển](https://concatenate.pages.dev/docs) mô tả API của Concat và các phương thức truyền tải: JSON-RPC, gRPC và MCP. [Thảo luận này](https://github.com/jub0t/Concat/discussions/3) là nơi dự án được công bố.
 > 
 > Người đóng góp có thể nhận vai trò `@Contributor` trên máy chủ Discord, chỉ cần hỏi.
 
@@ -137,4 +137,4 @@ Concat đang ở giai đoạn **beta**: nó hoạt động, và vẫn còn vài 
 
 ## DMCA
 
-Nếu bạn cho rằng nội dung nào đó trong kho mã này, trong các bản phát hành của nó, hoặc trong một gói hay mô hình mà nó phân phối vi phạm bản quyền của bạn, hãy gửi email tới [jub0trd@gmail.com](mailto:jub0trd@gmail.com) kèm theo: mô tả tác phẩm thuộc sở hữu của bạn, liên kết tới nơi tài liệu vi phạm xuất hiện tại đây, thông tin liên hệ của bạn, một tuyên bố rằng bạn tin một cách thiện chí rằng việc sử dụng đó không được bạn, người đại diện của bạn hoặc pháp luật cho phép, và một tuyên bố, chịu hình phạt về tội khai man, rằng thông báo là chính xác và bạn là chủ sở hữu hoặc được ủy quyền hành động thay mặt chủ sở hữu, có chữ ký tay hoặc chữ ký điện tử của bạn. Các thông báo hợp lệ sẽ được xử lý kịp thời, và bất kỳ ai có tài liệu bị gỡ bỏ đều có thể gửi thông báo phản đối (counter-notice) tới cùng địa chỉ này.
+Nếu bạn cho rằng nội dung nào đó trong kho mê này, trong các bản phát hành của nó, hoặc trong một gói hay mô hình mà nó phân phối vi phạm bản quyền của bạn, hêy gửi email tới [jub0trd@gmail.com](mailto:jub0trd@gmail.com) kèm theo: mô tả tác phẩm thuộc sở hữu của bạn, liên kết tới nơi tài liệu vi phạm xuất hiện tại đây, thông tin liên hệ của bạn, một tuyên bố rằng bạn tin một cách thiện chí rằng việc sử dụng đó không được bạn, người đại diện của bạn hoặc pháp luật cho phép, và một tuyên bố, chịu hình phạt về tội khai man, rằng thông báo là chính xác và bạn là chủ sở hữu hoặc được ủy quyền hành động thay mặt chủ sở hữu, có chữ ký tay hoặc chữ ký điện tử của bạn. Các thông báo hợp lệ sẽ được xử lý kịp thời, và bất kỳ ai có tài liệu bị gỡ bỏ đều có thể gửi thông báo phản đối (counter-notice) tới cùng địa chỉ này.
