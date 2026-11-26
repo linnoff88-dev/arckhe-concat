@@ -189,7 +189,7 @@ pub enum Kind {
     /// texture, motion.
     Effect,
     /// A colour look: image in, image out, one intensity. Warm, mono,
-    /// film, cinematic.
+    /// film, cARCKHÉtic.
     Filter,
     /// An audio effect: sound in, sound out. Voices, tone, space.
     Audio,

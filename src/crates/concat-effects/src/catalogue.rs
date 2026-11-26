@@ -449,7 +449,7 @@ impl Package {
                 }
                 &[]
             }
-            "Retro & Film" => &["Retro", "Film", "Cinematic"],
+            "Retro & Film" => &["Retro", "Film", "CARCKHÉtic"],
             "Optical & Lens" => &["Optical", "Lens", "Blur"],
             "Distortion & Glitch" => &["Distort", "Glitch"],
             "Party & Club" => &["Party", "Club"],
